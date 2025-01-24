@@ -1,5 +1,7 @@
 # VPN Gate - 免费学术 VPN 服务
 
+![VPN Gate Logo](https://github.com/EmberSky99/SoftEtherFreeVPN/blob/main/123.png "VPN Gate Logo")
+
 VPN Gate 是由日本筑波大学提供的免费 VPN 中继服务。它具有以下主要特点：
 
 - **完全免费**: 由全球志愿者提供 VPN 服务器。
