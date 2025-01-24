@@ -1,0 +1,2 @@
+# SoftEtherFreeVPN
+SoftEtherFreeVPN是一个永久免费的VPN，是一个专注于教育科研领域的VPN，有13000多个免费机场节点，提供多种客户端供下载并使用
