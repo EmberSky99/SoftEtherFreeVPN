@@ -21,4 +21,4 @@ VPN Gate 是由日本筑波大学提供的免费 VPN 中继服务。它具有以
 该服务主要面向学术研究用途，可帮助用户安全访问互联网，绕过地理限制。所有服务器由志愿者维护，完全免费使用。
 
 ## 下载链接
-- [VPN Gate 客户端下载](https://www.vpngate.net/cn/download.aspx)
+- [VPN Gate 客户端下载](https://github.com/EmberSky99/SoftEtherFreeVPN/releases)
