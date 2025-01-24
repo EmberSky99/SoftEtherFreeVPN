@@ -22,3 +22,5 @@ VPN Gate 是由日本筑波大学提供的免费 VPN 中继服务。它具有以
 
 ## 下载链接
 - [VPN Gate 客户端下载](https://github.com/EmberSky99/SoftEtherFreeVPN/releases)
+
+官网 https://www.vpngate.net/c
